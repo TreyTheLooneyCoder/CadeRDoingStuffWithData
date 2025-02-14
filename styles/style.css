@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(45, 5, 5);
+    color: white;
+}
+
+.less-top-space {
+    margin-top: -5.5rem;
+}
+
+.more-to-right {
+    margin-left: 17rem;
+}
